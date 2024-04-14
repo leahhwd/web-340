@@ -1,0 +1,13 @@
+{
+  "name": "superhero-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/superhero.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
